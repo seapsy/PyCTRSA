@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2383ab4-1816-4649-acb6-030e0919c134" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/test/.ipynb_checkpoints/Tutorial_for_PyCTRSA_colab-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test/.ipynb_checkpoints/Tutorial_for_PyCTRSA_colab-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Tutorial_for_PyCTRSA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test/Tutorial_for_PyCTRSA.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/Tutorial_for_PyCTRSA_colab.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test/Tutorial_for_PyCTRSA_colab.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
