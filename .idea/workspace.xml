@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2383ab4-1816-4649-acb6-030e0919c134" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/.ipynb_checkpoints/Tutorial_for_PyCTRSA_colab-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test/.ipynb_checkpoints/Tutorial_for_PyCTRSA_colab-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/Tutorial_for_PyCTRSA.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test/Tutorial_for_PyCTRSA.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/Tutorial_for_PyCTRSA_colab.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test/Tutorial_for_PyCTRSA_colab.ipynb" afterDir="false" />
     </list>
@@ -35,7 +34,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -43,6 +42,15 @@
                 <caret line="31" selection-start-line="31" selection-end-line="31" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/Tutorial_for_PyCTRSA_colab.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
             </state>
           </provider>
         </entry>
@@ -149,10 +157,11 @@
         <option value="$PROJECT_DIR$/pyctrsa/ctsimilarity/normaldatabased.py" />
         <option value="$PROJECT_DIR$/pyctrsa/plotting/tbytsimilarities.py" />
         <option value="$PROJECT_DIR$/setup.py" />
+        <option value="$PROJECT_DIR$/test/Tutorial_for_PyCTRSA_colab.ipynb" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="34" />
     <option name="y" value="30" />
     <option name="width" value="1245" />
@@ -376,15 +385,15 @@
       <workItem from="1596207262454" duration="2155000" />
       <workItem from="1596212977007" duration="9561000" />
       <workItem from="1596341922709" duration="264000" />
-      <workItem from="1596342583405" duration="557000" />
+      <workItem from="1596342583405" duration="1372000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25036000" />
+    <option name="totallyTimeSpent" value="25851000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="34" y="30" width="1245" height="761" extended-state="0" />
+    <frame x="34" y="30" width="1245" height="761" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27098918" />
@@ -553,6 +562,13 @@
             <caret line="31" selection-start-line="31" selection-end-line="31" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Tutorial_for_PyCTRSA_colab.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
